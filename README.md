@@ -7,4 +7,4 @@ Dart project should contain pubspec.yaml if using non-builtin methods
 Folder contains the usage of dart http library to make a rest call.
 
 
-NOTE: For project is built using VS Code.
+NOTE: Project is built using VS Code.
